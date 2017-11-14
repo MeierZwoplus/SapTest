@@ -1,0 +1,18 @@
+Git Software:
+https://git-scm.com/download/win
+
+Github Account:
+https://github.com/
+
+Youtube-Video "Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics":
+https://www.youtube.com/watch?v=0fKg7e37bQE
+
+Zugang Testaccount Github:
+user: meierzwoplus
+pw: notneeded0
+
+testmailaccount: meierzwoplus@gmail.com
+pw: notneeded
+
+
+https://github.com/MeierZwoplus/SapTest.git
